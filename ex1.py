@@ -1,0 +1,6 @@
+print("Hello Welcome")
+print("Hi this is sushant")
+print("Hello welcome to Nagravision")
+print("Hi my name is sushant satonkar")
+print("Hi I am learning python")
+print("#what did it do?")
